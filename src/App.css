@@ -36,3 +36,31 @@
     transform: rotate(360deg);
   }
 }
+
+
+footer a:hover {
+  color: #0dcaf0 !important; /* Bootstrap info blue */
+}
+
+footer h5 {
+  font-weight: 600;
+}
+
+#internship h2 {
+  font-weight: bold;
+}
+
+.card-title {
+  font-size: 1.25rem;
+  color: #0d6efd;
+}
+
+
+#certifications h2 {
+  font-weight: 700;
+}
+
+.card-title {
+  font-size: 1.2rem;
+  color: #6610f2;
+}
