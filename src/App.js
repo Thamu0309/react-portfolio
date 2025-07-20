@@ -7,7 +7,6 @@ import Projects from './pages/Projects';
 import Internship from './pages/Internship';
 import Certifications from './pages/Certifications';
 import Contact from './pages/Contact';
-import ContactForm from './components/ContactForm'; 
 import Skills from './pages/Skills';
 function App() {
   return (
@@ -20,7 +19,6 @@ function App() {
       <Certifications />
       <Skills />
       <Contact />
-      <ContactForm />
       <Footer />
     </>
   );
